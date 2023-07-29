@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 age=25
