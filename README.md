@@ -47,3 +47,5 @@ else
   echo "18 and up required ;)"
 fi
 ```
+### Recommendations
+- Pull up 2 linux vms and run the script on one vm. And with the other vm, ping the ip your adding ms to and see the results.
