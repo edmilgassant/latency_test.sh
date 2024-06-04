@@ -1,5 +1,5 @@
-#Testing Latency
-###Getting started
+# Testing Latency
+### Getting started
 - Created this for testing latency and getting notified when my system is showing low latency.
 
 ```bash
