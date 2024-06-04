@@ -1,12 +1,12 @@
 # Testing Latency
 ### Getting started
 - Created this for testing latency and getting notified when my system is showing low latency.
-
+- Also a good tool for testing any networking software.
 ```bash
 #!/bin/bash
 
 # THIS SCRIPT IS FOR TESTING PURPOSES.
-# USED TO TEST RESPONSE OF A SYSTEM WITH LOW LATENCY. (EX: EMCO)
+# USED TO TEST RESPONSE OF A SYSTEM WITH LOW LATENCY.
 
 #\n adds a new line in begging or end of sentence. Option "-e" after echo allows options like \n (newline) or \t (tab) to execute.
 echo -e "\n\t================================="
